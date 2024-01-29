@@ -1,0 +1,72 @@
+{
+  "ramansravan": {
+    "Phone": "8341515469",
+    "Email": "17021-ec-031@gmail.com",
+    "age": "22",
+    "address": "2-234"
+  },
+  "Sravankumar": {
+    "Phone": "7788556677",
+    "Email": "xxxxx@gmail.com",
+    "age": "22",
+    "address": "2-777-"
+  },
+  "raman": {
+    "Phone": "9898766654",
+    "Email": "xxxx@gmail.com",
+    "age": "33",
+    "address": "3-309"
+  },
+  "sravan": {
+    "Phone": "9381722778",
+    "Email": "ramansravankumar@gmail.com",
+    "age": "23",
+    "address": "2-293",
+    "email": "xxx1@gmail.com"
+  },
+  "sravankumar": {
+    "Phone": "6665656655",
+    "Email": "xxxx@gmail.com",
+    "age": "22",
+    "address": "2-295-d2"
+  },
+  "sraa": {
+    "Phone": "9987676546",
+    "Email": "sravan@gmail.com",
+    "age": "22",
+    "address": "2-295-d2"
+  },
+  "sriramudu": {
+    "Phone": "1234567890",
+    "Email": "ramudu@gmail.com",
+    "age": "0",
+    "address": "1-1-ayodya"
+  },
+  "narendra modi": {
+    "Phone": "9217439631",
+    "Email": "narendra@gmail.com",
+    "age": "65",
+    "address": "2-203",
+    "phone": "9976223333"
+  },
+  "sushma": {
+    "Phone": "8999987689",
+    "Email": "sus@gmail.com",
+    "age": "33",
+    "address": "3-395",
+    "phone": "8975642665",
+    "email": "sush@gmail.com"
+  },
+  "ramlok": {
+    "Phone": "9963093817",
+    "Email": "ramlok@gmail.com",
+    "age": "22",
+    "address": "2-288"
+  },
+  "sudhakar": {
+    "Phone": "8341519381",
+    "Email": "skars@gmail.com",
+    "age": "33",
+    "address": "2-666"
+  }
+}
